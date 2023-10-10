@@ -5,7 +5,7 @@
 <section>
     <summary><h2>🌠 About Me</h2></summary>
     <p>
-        Hello there! 👋 I'm a computer science graduate with a first-class honors degree. I'm truly passionate about software development.
+        Hello there! 👋 I'm a Software Engineer at Marks & Spencer. I'm truly passionate about software development.
     <br><br>  
         🚀 As a full-stack developer, I enjoy the entire process of building applications – from crafting user-friendly frontends to designing robust and efficient backends.
     <br><br>
