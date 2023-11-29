@@ -18,7 +18,6 @@
 <section>
     <h2>📥 Connect with Me</h2>
     <p class="social-links">
-      🎥 <a href="https://www.tiktok.com/@h1n.dev">TikTok</a> |
       ✍️ <a href="https://medium.com/@nassorh">Medium</a>
     </p>
     <p>
